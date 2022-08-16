@@ -8,7 +8,7 @@ const Footer = () => {
     >
       Made with ♥ by{" "}
       <a
-        href="https://sudeepdev.works"
+        href="https://sudeepdev.software"
         style={{ cursor: "pointer" }}
       >
         Sudeep
